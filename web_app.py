@@ -317,22 +317,28 @@ class ReviewHandler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         parsed = urllib.parse.urlsplit(self.path)
-        if parsed.path in {'/', '/review'}:
+        path = self.server.app.strip_base_path(parsed.path)
+        if path == '/':
+            self.send_response(302)
+            self.send_header('Location', self.server.app.base_path + '/review')
+            self.end_headers()
+            return
+        if path in {'/review'}:
             self._send_html(self.server.app.render_review_page())
             return
-        if parsed.path == '/settings':
+        if path == '/settings':
             self._send_html(self.server.app.render_settings_page())
             return
-        if parsed.path == '/api/candidates':
+        if path == '/api/candidates':
             params = urllib.parse.parse_qs(parsed.query)
             limit = int(params.get('limit', [self.server.app.settings.data['max_rows']])[0])
             data = self.server.app.api_candidates(limit=limit)
             self._send_json(data)
             return
-        if parsed.path == '/api/status':
+        if path == '/api/status':
             self._send_json(self.server.app.api_status())
             return
-        if parsed.path == '/api/book':
+        if path == '/api/book':
             params = urllib.parse.parse_qs(parsed.query)
             if not params.get('id'):
                 self._send_json({'error': 'missing id'}, status=400)
@@ -348,7 +354,8 @@ class ReviewHandler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         parsed = urllib.parse.urlsplit(self.path)
-        if parsed.path == '/api/suggest':
+        path = self.server.app.strip_base_path(parsed.path)
+        if path == '/api/suggest':
             payload = self._read_json()
             book_id = int(payload['book_id'])
             use_ai = bool(payload.get('use_ai', False))
@@ -359,7 +366,7 @@ class ReviewHandler(BaseHTTPRequestHandler):
             suggestion = self.server.app.suggest_book(book, use_ai=use_ai)
             self._send_json(self.server.app.book_to_json(book, suggestion))
             return
-        if parsed.path == '/api/apply':
+        if path == '/api/apply':
             payload = self._read_json()
             ids = [int(x) for x in payload.get('book_ids', [])]
             use_ai = bool(payload.get('use_ai', False))
@@ -380,16 +387,16 @@ class ReviewHandler(BaseHTTPRequestHandler):
             )
             self._send_json({'applied': changed, 'book_ids': ids})
             return
-        if parsed.path == '/api/settings':
+        if path == '/api/settings':
             payload = self._read_json()
             self.server.app.update_settings(payload)
             self._send_json({'ok': True})
             return
-        if parsed.path == '/settings':
+        if path == '/settings':
             payload = parse_settings_form(self._read_body())
             self.server.app.update_settings(payload)
             self.send_response(303)
-            self.send_header('Location', '/settings')
+            self.send_header('Location', self.server.app.base_path + '/settings')
             self.end_headers()
             return
         self._send_json({'error': 'not found'}, status=404)
@@ -423,12 +430,31 @@ class ReviewHandler(BaseHTTPRequestHandler):
 
 class ReviewApp:
     def __init__(self, settings_path: Path):
+        self.base_path = ''
         self.settings = SettingsStore(settings_path)
         self.registry = AuthorRegistry.load_default()
         self.db = CalibreReviewDB(Path(self.settings.data['db_path']))
         self.backup_root = Path(self.settings.data['backup_root'])
         self.library_root = Path(self.settings.data['library_root'])
         self.lock = threading.Lock()
+
+    def set_base_path(self, base_path: str):
+        base_path = (base_path or '').strip()
+        if base_path in {'', '/'}:
+            self.base_path = ''
+            return
+        if not base_path.startswith('/'):
+            base_path = '/' + base_path
+        self.base_path = base_path.rstrip('/')
+
+    def strip_base_path(self, path: str) -> str:
+        if not self.base_path:
+            return path
+        if path == self.base_path:
+            return '/'
+        if path.startswith(self.base_path + '/'):
+            return path[len(self.base_path):]
+        return path
 
     def update_settings(self, payload: dict[str, Any]):
         with self.lock:
@@ -603,7 +629,7 @@ class ReviewApp:
       <label><input type="checkbox" id="use-ai"> use OpenAI fallback</label>
       <button class="primary" id="refresh">Refresh queue</button>
       <button class="good" id="apply">Apply checked</button>
-      <a href="/settings" class="right">Settings</a>
+      <a href="{self.base_path}/settings" class="right">Settings</a>
     </div>
     <table>
       <thead>
@@ -641,6 +667,7 @@ class ReviewApp:
     const useAiEl = document.getElementById('use-ai');
     const limitEl = document.getElementById('limit');
 
+    const BASE_PATH = {json.dumps(self.base_path)};
     useAiEl.checked = true;
     const settingsSnapshot = {json.dumps(self.settings.data, ensure_ascii=False, indent=2)};
     configEl.textContent = JSON.stringify(settingsSnapshot, null, 2);
@@ -650,7 +677,7 @@ class ReviewApp:
     }});
 
     async function loadStatus() {{
-      const resp = await fetch('/api/status');
+      const resp = await fetch(BASE_PATH + '/api/status');
       const data = await resp.json();
       statsEl.innerHTML = `
         <div class="card"><div class="k">Books</div><div class="v">${{data.books}}</div></div>
@@ -722,14 +749,14 @@ class ReviewApp:
 
     async function loadQueue() {{
       const limit = Number(limitEl.value || 200);
-      const resp = await fetch(`/api/candidates?limit=${{limit}}`);
+      const resp = await fetch(`${{BASE_PATH}}/api/candidates?limit=${{limit}}`);
       const data = await resp.json();
       renderRows(data.rows || []);
       showDetails((data.rows || [])[0] || {{}});
     }}
 
     async function suggestRow(row) {{
-      const resp = await fetch('/api/suggest', {{
+      const resp = await fetch(BASE_PATH + '/api/suggest', {{
         method: 'POST',
         headers: {{ 'Content-Type': 'application/json' }},
         body: JSON.stringify({{ book_id: row.book_id, use_ai: useAiEl.checked }})
@@ -747,7 +774,7 @@ class ReviewApp:
         alert('No rows checked');
         return;
       }}
-      const resp = await fetch('/api/apply', {{
+      const resp = await fetch(BASE_PATH + '/api/apply', {{
         method: 'POST',
         headers: {{ 'Content-Type': 'application/json' }},
         body: JSON.stringify({{ book_ids: ids, use_ai: useAiEl.checked }})
@@ -792,10 +819,10 @@ class ReviewApp:
 <main>
   <div class="top">
     <h1>Settings</h1>
-    <a class="button" href="/review">Back</a>
+    <a class="button" href="{self.base_path}/review">Back</a>
   </div>
   <div class="card">
-    <form method="post" action="/settings">
+    <form method="post" action="{self.base_path}/settings">
       <label>Calibre DB path</label>
       <input name="db_path" value="{val('db_path')}" />
       <label>Library root</label>
@@ -858,15 +885,17 @@ def main():
     parser.add_argument('--host', default='127.0.0.1')
     parser.add_argument('--port', type=int, default=8137)
     parser.add_argument('--settings', default=str(DEFAULT_SETTINGS_PATH))
+    parser.add_argument('--base-path', default='')
     args = parser.parse_args()
 
     app = ReviewApp(Path(args.settings))
+    app.set_base_path(args.base_path)
 
     class Handler(ReviewHandler):
         pass
 
     server = ReviewHTTPServer((args.host, args.port), Handler, app)
-    print(f'Listening on http://{args.host}:{args.port}')
+    print(f'Listening on http://{args.host}:{args.port}{app.base_path or ""}')
     server.serve_forever()
 
 
