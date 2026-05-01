@@ -19,7 +19,3 @@ class AIMetadataReviewPlugin(InterfaceActionBase):
 
     def save_settings(self, config_widget):
         config_widget.save_settings()
-        ac = self.actual_plugin_
-        if ac is not None and hasattr(ac, 'apply_settings'):
-            ac.apply_settings()
-
