@@ -5,7 +5,10 @@ import os
 import urllib.error
 import urllib.request
 
-from .core import parse_ai_response
+try:
+    from .core import parse_ai_response
+except ImportError:  # pragma: no cover - direct script execution
+    from core import parse_ai_response
 
 
 def resolve_api_key(config_key: str | None = None) -> str:
@@ -48,4 +51,3 @@ def _extract_text(payload: dict) -> str:
             if text:
                 pieces.append(text)
     return '\n'.join(pieces)
-
