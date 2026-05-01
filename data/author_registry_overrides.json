@@ -1,0 +1,2170 @@
+{
+  "canonical_author_map": {
+    "A. E. van Vogt": [
+      "A. E. van Vogt",
+      "Alfred van Vogt",
+      "Альфред Ван Вогт",
+      "Альфред Ван-Вогт"
+    ],
+    "Aldous Huxley": [
+      "Aldous Huxley",
+      "Олдос Хакслі"
+    ],
+    "Hayden Herrera": [
+      "Hayden Herrera",
+      "Эррера Х.",
+      "Эррера Х"
+    ],
+    "Dan Simmons": [
+      "Dan Simmons",
+      "Дэн Симмонс"
+    ],
+    "Dai Sijie": [
+      "Dai Sijie",
+      "Дэ Сижи"
+    ],
+    "China Miéville": [
+      "China Miéville",
+      "Чайна Мьевилль"
+    ],
+    "Amos Oz": [
+      "Amos Oz",
+      "Амос Оз"
+    ],
+    "Andre Norton": [
+      "Andre Norton",
+      "Андрэ Нортон"
+    ],
+    "Brian Aldiss": [
+      "Brian Aldiss",
+      "Брайан Олдисс"
+    ],
+    "Branislav Nušić": [
+      "Branislav Nušić",
+      "Бранислав Нушич"
+    ],
+    "Catherine O'Flynn": [
+      "Catherine O'Flynn",
+      "Кэтрин О'Флинн"
+    ],
+    "Christian Mørk": [
+      "Christian Mørk",
+      "Кристиан Мёрк"
+    ],
+    "Christian Oster": [
+      "Christian Oster",
+      "Кристиан Остер"
+    ],
+    "Flannery O'Connor": [
+      "Flannery O'Connor",
+      "Фланнери О'Коннор"
+    ],
+    "Frank O'Connor": [
+      "Frank O'Connor",
+      "Фрєнк О'Коннор"
+    ],
+    "George Orwell": [
+      "George Orwell",
+      "Джордж Орвелл"
+    ],
+    "Jeff Noon": [
+      "Jeff Noon",
+      "Джефф Нун"
+    ],
+    "Jo Nesbø": [
+      "Jo Nesbø",
+      "Ю Несбьо"
+    ],
+    "Joyce Carol Oates": [
+      "Joyce Carol Oates",
+      "Джойс Кэрол Оутс"
+    ],
+    "Larry Niven": [
+      "Larry Niven",
+      "Ларри Нивен"
+    ],
+    "Lawrence Norfolk": [
+      "Lawrence Norfolk",
+      "Лоуренс Норфолк"
+    ],
+    "Michael Ondaatje": [
+      "Michael Ondaatje",
+      "Майкл Ондатже"
+    ],
+    "Patrick O'Leary": [
+      "Patrick O'Leary",
+      "Патрик О'Лири"
+    ],
+    "Paul Auster": [
+      "Paul Auster",
+      "Пол Остер"
+    ],
+    "Robert Oppenheimer": [
+      "Robert Oppenheimer",
+      "Роберт Оппенгеймер"
+    ],
+    "Tim O'Brien": [
+      "Tim O'Brien",
+      "Тим О`Брайен"
+    ],
+    "V. S. Naipaul": [
+      "V. S. Naipaul",
+      "Видиадхар Найпол"
+    ],
+    "Zofia Nałkowska": [
+      "Zofia Nałkowska",
+      "Софія Налковська"
+    ],
+    "Frances Mayes": [
+      "Frances Mayes",
+      "Фрэнсис Мэйес"
+    ],
+    "Friedrich Nietzsche": [
+      "Friedrich Nietzsche",
+      "Фридрих Ницше"
+    ],
+    "Herta Müller": [
+      "Herta Müller",
+      "Герта Мюллер"
+    ],
+    "Julian May": [
+      "Julian May",
+      "Джулиан Мэй"
+    ],
+    "Josip Novakovich": [
+      "Josip Novakovich",
+      "Иосип Новакович"
+    ],
+    "Murray Leinster": [
+      "Murray Leinster",
+      "Лейнстер Мюррей",
+      "Яко Мюррей"
+    ],
+    "Olga Tokarczuk": [
+      "Olga Tokarczuk",
+      "Ольга Токарчук",
+      "Токарчук О."
+    ],
+    "Sergey Nedorub": [
+      "Sergey Nedorub",
+      "Сергей Недоруб",
+      "Сергій Недоруб"
+    ],
+    "Yurii Soroka": [
+      "Yurii Soroka",
+      "Юрій Сорока",
+      "Ю. В. Сорока"
+    ],
+    "Cordwainer Smith": [
+      "Cordwainer Smith",
+      "Кордвайнер Смит",
+      "Кордвейнер Смит"
+    ],
+    "Frank Sisk": [
+      "Frank Sisk",
+      "Фрэнк Сиск"
+    ],
+    "George Smith": [
+      "George Smith",
+      "Джордж Смит"
+    ],
+    "Henry Slesar": [
+      "Henry Slesar",
+      "Генри Слизар"
+    ],
+    "Johanna Sinisalo": [
+      "Johanna Sinisalo",
+      "Йоханна Синисало"
+    ],
+    "Frances Mayes": [
+      "Frances Mayes",
+      "Фрэнсис Мэйес"
+    ],
+    "Friedrich Nietzsche": [
+      "Friedrich Nietzsche",
+      "Фридрих Ницше"
+    ],
+    "Herta Müller": [
+      "Herta Müller",
+      "Герта Мюллер"
+    ],
+    "Kenji Siratori": [
+      "Kenji Siratori",
+      "Кэндзи Сиратори"
+    ],
+    "Julian May": [
+      "Julian May",
+      "Джулиан Мэй"
+    ],
+    "Josip Novakovich": [
+      "Josip Novakovich",
+      "Иосип Новакович"
+    ],
+    "Mark Haskell Smith": [
+      "Mark Haskell Smith",
+      "Марк Хаскелл Смит"
+    ],
+    "Murray Leinster": [
+      "Murray Leinster",
+      "Лейнстер Мюррей",
+      "Яко Мюррей"
+    ],
+    "Fujio Shihara": [
+      "Fujio Shihara",
+      "Фудзио Сихара"
+    ],
+    "Patti Smith": [
+      "Patti Smith",
+      "Патти Смит"
+    ],
+    "Ulli Sommer": [
+      "Ulli Sommer",
+      "Улли Соммер"
+    ],
+    "Erich Maria Remarque": [
+      "Erich Maria Remarque",
+      "Еріх Марія Ремарк",
+      "Еріх-Марія Ремарк"
+    ],
+    "Giuseppe D'Agata": [
+      "Giuseppe D'Agata",
+      "Джузеппе Д'Агата",
+      "Джузеппе Д`Агата"
+    ],
+    "Janusz Leon Wiśniewski": [
+      "Janusz Leon Wiśniewski",
+      "Janusz L. Wisniewski",
+      "Януш Вишневский",
+      "Вишневський Я.",
+      "Вишнєвс'кій Я."
+    ],
+    "M. S. Nikulin": [
+      "M. S. Nikulin",
+      "M.S. Nikulin"
+    ],
+    "Ola Ellnestam | Daniel Brolund": [
+      "Ola Ellnestam | Daniel Brolund",
+      "Ola Ellnestam Daniel Brolund",
+      "Ola Ellnestam| Daniel Brolund"
+    ],
+    "Софія Андрухович": [
+      "Софія Андрухович",
+      "Софій͡а Андрухович"
+    ],
+    "Світлана Пиркало": [
+      "Світлана Пиркало",
+      "Світлана ПИРКАЛО",
+      "Svitlana Pyrkalo"
+    ],
+    "Günter Grass": [
+      "Günter Grass",
+      "Gunter Grass",
+      "Гюнтер Грасс"
+    ],
+    "C. S. Lewis": [
+      "C. S. Lewis",
+      "C.S. Lewis",
+      "L'iuyis K. S.",
+      "L'iuyis K.S.",
+      "Люїс Стейплз Клайв"
+    ],
+    "Alessandro Baricco": [
+      "Alessandro Baricco",
+      "Алессандро Барикко"
+    ],
+    "Ambrose Bierce": [
+      "Ambrose Bierce",
+      "Амброз Бирс"
+    ],
+    "Edward Bellamy": [
+      "Edward Bellamy",
+      "Эдуард Беллами"
+    ],
+    "Pedro Almodóvar": [
+      "Pedro Almodóvar",
+      "Педро Альмодовар"
+    ],
+    "Robert Albert Bloch": [
+      "Robert Albert Bloch",
+      "Роберт Альберт Блох"
+    ],
+    "Bertrand Blier": [
+      "Bertrand Blier",
+      "Бертран Блие"
+    ],
+    "Woody Allen": [
+      "Woody Allen",
+      "Вуди Аллен"
+    ],
+    "Agatha Christie": [
+      "Agatha Christie",
+      "Агата Крісті"
+    ],
+    "Antoine de Saint-Exupéry": [
+      "Antoine de Saint-Exupéry",
+      "Антуан де Сент-Экзюпери"
+    ],
+    "Brian Herbert": [
+      "Brian Herbert",
+      "Брайан Херберт",
+      "Брайан Герберт"
+    ],
+    "Daniel Pennac": [
+      "Daniel Pennac",
+      "Даниэль Пеннак"
+    ],
+    "Erlend Loe": [
+      "Erlend Loe",
+      "Эрленд Лу"
+    ],
+    "Jack London": [
+      "Jack London",
+      "Джек Лондон"
+    ],
+    "Jane Austen": [
+      "Jane Austen",
+      "Джейн Остен"
+    ],
+    "John Fowles": [
+      "John Fowles",
+      "Джон Фаулз"
+    ],
+    "John Steinbeck": [
+      "John Steinbeck",
+      "Джон Стейнбек"
+    ],
+    "Andrzej Stasiuk": [
+      "Andrzej Stasiuk",
+      "Анджей Стасюк"
+    ],
+    "August Strindberg": [
+      "August Strindberg",
+      "Август Юхан Стриндберг"
+    ],
+    "Irving Stone": [
+      "Irving Stone",
+      "Ирвинг Стоун"
+    ],
+    "Kathryn Stockett": [
+      "Kathryn Stockett",
+      "Кэтрин Стокетт"
+    ],
+    "Tom Stone": [
+      "Tom Stone",
+      "Том Стоун"
+    ],
+    "Milorad Pavić": [
+      "Milorad Pavić",
+      "Милорад Павич"
+    ],
+    "Mark Haddon": [
+      "Mark Haddon",
+      "Марк Хэддон",
+      "Марк Геддон"
+    ],
+    "Friedrich Gerstäcker": [
+      "Friedrich Gerstäcker",
+      "Фридрих Герштекер"
+    ],
+    "Hermann Hesse": [
+      "Hermann Hesse",
+      "Герман Гессе"
+    ],
+    "David Gilmour": [
+      "David Gilmour",
+      "Дэвид Гилмор"
+    ],
+    "Nikolai Gogol": [
+      "Nikolai Gogol",
+      "Микола Гоголь"
+    ],
+    "Witold Gombrowicz": [
+      "Witold Gombrowicz",
+      "Вітольд Гомбрович"
+    ],
+    "John Gordon": [
+      "John Gordon",
+      "Джон Гордон"
+    ],
+    "Philippa Gregory": [
+      "Philippa Gregory",
+      "Филиппа Грегори"
+    ],
+    "Alasdair Gray": [
+      "Alasdair Gray",
+      "Аласдер Грей"
+    ],
+    "Robert Graves": [
+      "Robert Graves",
+      "Роберт Грейвз"
+    ],
+    "Joseph Green": [
+      "Joseph Green",
+      "Джозеф Грин"
+    ],
+    "Peter Greenaway": [
+      "Peter Greenaway",
+      "Питер Гринуэй"
+    ],
+    "Winston Groom": [
+      "Winston Groom",
+      "Уинстон Грум"
+    ],
+    "Olga Grushin": [
+      "Olga Grushin",
+      "Ольга Грушина"
+    ],
+    "Seth Grahame-Smith": [
+      "Seth Grahame-Smith",
+      "Сет Грэм-Смит"
+    ],
+    "Igor Guberman": [
+      "Igor Guberman",
+      "Игорь Губерман"
+    ],
+    "David Guterson": [
+      "David Guterson",
+      "Дэвид Гутерсон"
+    ],
+    "Damon Galgut": [
+      "Damon Galgut",
+      "Дэймон Гэлгут"
+    ],
+    "William H. Gass": [
+      "William H. Gass",
+      "William Gass",
+      "Уильям Гэсс"
+    ],
+    "Reşat Nuri Güntekin": [
+      "Reşat Nuri Güntekin",
+      "Reshat Nuri Guntekin",
+      "Решад Нурі Гюнтекін"
+    ],
+    "Gabriele D'Annunzio": [
+      "Gabriele D'Annunzio",
+      "Ґабриеле Д'аннунціо"
+    ],
+    "Salvador Dalí": [
+      "Salvador Dalí",
+      "Сальвадор Дали"
+    ],
+    "Helen DeWitt": [
+      "Helen DeWitt",
+      "Хелен Девитт"
+    ],
+    "Dan Brown": [
+      "Dan Brown",
+      "Ден Браун",
+      "Браун Ден"
+    ],
+    "Avram Davidson": [
+      "Avram Davidson",
+      "Аврам Дэвидсон"
+    ],
+    "Graeme Davidson": [
+      "Graeme Davidson",
+      "Грэйм Дэвидсон"
+    ],
+    "Robertson Davies": [
+      "Robertson Davies",
+      "Робертсон Дэвис"
+    ],
+    "Marguerite Duras": [
+      "Marguerite Duras",
+      "Маргеріт Дюрас"
+    ],
+    "Tibor Déry": [
+      "Tibor Déry",
+      "Тибор Дєри"
+    ],
+    "Jeffrey Eugenides": [
+      "Jeffrey Eugenides",
+      "Джеффри Евгенидис"
+    ],
+    "Elfriede Jelinek": [
+      "Elfriede Jelinek",
+      "Эльфрида Елинек"
+    ],
+    "Michael Ende": [
+      "Michael Ende",
+      "Міхаель Енде"
+    ],
+    "Ivan Yefremov": [
+      "Ivan Yefremov",
+      "Иван Ефремов"
+    ],
+    "Tom Egeland": [
+      "Tom Egeland",
+      "Том Еґеланн"
+    ],
+    "Alexandre Jardin": [
+      "Alexandre Jardin",
+      "Александр Жарден"
+    ],
+    "Thierry Jonquet": [
+      "Thierry Jonquet",
+      "Тьерри Жонке"
+    ],
+    "Patrick Süskind": [
+      "Patrick Süskind",
+      "Патрик Зюскинд"
+    ],
+    "Jennifer Egan": [
+      "Jennifer Egan",
+      "Дженнифер Иган"
+    ],
+    "Michael Idov": [
+      "Michael Idov",
+      "Михаил Идов"
+    ],
+    "Billie Sue Mosiman": [
+      "Billie Sue Mosiman",
+      "Billie Sue"
+    ],
+    "Clifford D. Simak": [
+      "Clifford D. Simak",
+      "Clifford Simak",
+      "Клиффорд Саймак"
+    ],
+    "James Sallis": [
+      "James Sallis",
+      "Джейли Салли"
+    ],
+    "J. R. Salling": [
+      "J. R. Salling",
+      "J.R. Salling",
+      "Й.Р. Саллинг"
+    ],
+    "Josephine Saxton": [
+      "Josephine Saxton",
+      "Жозефина Сакстон"
+    ],
+    "William Saroyan": [
+      "William Saroyan",
+      "Уильям Сароян"
+    ],
+    "Moris Santos": [
+      "Moris Santos",
+      "Морис Сантос"
+    ],
+    "Николай Самвелян": [
+      "Николай Самвелян",
+      "Nikolay Samvelyan",
+      "Nikolai Samvelian"
+    ],
+    "Роман Светлов": [
+      "Роман Светлов",
+      "Roman Svetlov"
+    ],
+    "Роман Сенчин": [
+      "Роман Сенчин",
+      "Roman Senchin"
+    ],
+    "Carlos Ruiz Zafón": [
+      "Carlos Ruiz Zafón",
+      "Карлос Руїз Сафон"
+    ],
+    "David Sedaris": [
+      "David Sedaris",
+      "Дэвид Седарис"
+    ],
+    "Alexei Sayle": [
+      "Alexei Sayle",
+      "Алексей Сейл"
+    ],
+    "Rachel Seiffert": [
+      "Rachel Seiffert",
+      "Рейчел Сейфферт"
+    ],
+    "Laurent Seksik": [
+      "Laurent Seksik",
+      "Лоран Сексик"
+    ],
+    "Arthur Sellings": [
+      "Arthur Sellings",
+      "Артур Селлингс"
+    ],
+    "Steve Sem-Sandberg": [
+      "Steve Sem-Sandberg",
+      "Стив Сем-Сандберг"
+    ],
+    "Jorge Semprún": [
+      "Jorge Semprún",
+      "Хорхе Семпрун"
+    ],
+    "Luis Sepúlveda": [
+      "Luis Sepúlveda",
+      "Луис Сепульведа"
+    ],
+    "Washington Irving": [
+      "Washington Irving",
+      "Вашингтон Ирвинг"
+    ],
+    "David Irving": [
+      "David Irving",
+      "Дэвид Ирвинг"
+    ],
+    "Alan Isler": [
+      "Alan Isler",
+      "Алан Ислер"
+    ],
+    "François Cavanna": [
+      "François Cavanna",
+      "Франсуа Каванна"
+    ],
+    "Michio Kaku": [
+      "Michio Kaku",
+      "Мічіо Кайку"
+    ],
+    "Italo Calvino": [
+      "Italo Calvino",
+      "Итало Кальвино"
+    ],
+    "Lyon Sprague de Camp": [
+      "Lyon Sprague de Camp",
+      "Лайон Спрэг де Камп"
+    ],
+    "Albert Camus": [
+      "Albert Camus",
+      "Альбер Камю",
+      "Альберт Камю"
+    ],
+    "Michael Cunningham": [
+      "Michael Cunningham",
+      "Майкл Каннингем"
+    ],
+    "Truman Capote": [
+      "Truman Capote",
+      "Трумен Капоте"
+    ],
+    "Bilge Karasu": [
+      "Bilge Karasu",
+      "Більґе Карасу"
+    ],
+    "Caleb Carr": [
+      "Caleb Carr",
+      "Калеб Карр"
+    ],
+    "John le Carré": [
+      "John le Carré",
+      "Джон Ле Карре"
+    ],
+    "Cleve Cartmill": [
+      "Cleve Cartmill",
+      "Клив Картмилл"
+    ],
+    "Adolfo Bioy Casares": [
+      "Adolfo Bioy Casares",
+      "Адольфо Биой Касарес"
+    ],
+    "Ibi Kaslik": [
+      "Ibi Kaslik",
+      "Иби Каслик"
+    ],
+    "Henry Kuttner": [
+      "Henry Kuttner",
+      "Генри Каттнер"
+    ],
+    "Franz Kafka": [
+      "Franz Kafka",
+      "Франц Кафка"
+    ],
+    "Nick Cave": [
+      "Nick Cave",
+      "Ник Кейв"
+    ],
+    "Wolfgang Köhler": [
+      "Wolfgang Köhler",
+      "Волфганг Келер"
+    ],
+    "Daniel Kehlmann": [
+      "Daniel Kehlmann",
+      "Даниэль Кельман"
+    ],
+    "William Kennedy": [
+      "William Kennedy",
+      "Уильям Кеннеди"
+    ],
+    "Lars Kepler": [
+      "Lars Kepler",
+      "Ларс Кеплер"
+    ],
+    "Sue Monk Kidd": [
+      "Sue Monk Kidd",
+      "Сью Монк Кид"
+    ],
+    "Barbara Kingsolver": [
+      "Barbara Kingsolver",
+      "Барбара Кингсолвер"
+    ],
+    "Pascal Quignard": [
+      "Pascal Quignard",
+      "Паскаль Киньяр"
+    ],
+    "Natsuo Kirino": [
+      "Natsuo Kirino",
+      "Нацуо Кирино"
+    ],
+    "Jonathan Keats": [
+      "Jonathan Keats",
+      "Джонатон Китс"
+    ],
+    "Gérard Klein": [
+      "Gérard Klein",
+      "Жерар Клейн"
+    ],
+    "Chris Cleave": [
+      "Chris Cleave",
+      "Крис Клив"
+    ],
+    "Tom Clancy": [
+      "Tom Clancy",
+      "Том Клэнси"
+    ],
+    "Hans Kneifel": [
+      "Hans Kneifel",
+      "Ганс Кнайфель"
+    ],
+    "Didier van Cauwelaert": [
+      "Didier van Cauwelaert",
+      "Дидье ван Ковелер"
+    ],
+    "Paulo Coelho": [
+      "Paulo Coelho",
+      "Пауло Коельйо",
+      "Koiel'io P."
+    ],
+    "Charles Baudelaire": [
+      "Charles Baudelaire",
+      "Бодлер Шарль"
+    ],
+    "Israel Shamir": [
+      "Israel Shamir",
+      "Исраэль Шамир"
+    ],
+    "Bonnie Schaub": [
+      "Bonnie Schaub",
+      "Бонни Шауб"
+    ],
+    "Richard Schaub": [
+      "Richard Schaub",
+      "Ричард Шауб"
+    ],
+    "James Shore": [
+      "James Shore",
+      "Шор Дж."
+    ],
+    "Diana Larsen": [
+      "Diana Larsen",
+      "Ларсен Д."
+    ],
+    "Gitte Klitgaard": [
+      "Gitte Klitgaard",
+      "Клитгаард Г."
+    ],
+    "Shane Warden": [
+      "Shane Warden",
+      "Уорден Ш."
+    ],
+    "Simon Logan": [
+      "Simon Logan",
+      "Саймон Логан"
+    ],
+    "David Lodge": [
+      "David Lodge",
+      "Дэвид Лодж"
+    ],
+    "Hugh Laurie": [
+      "Hugh Laurie",
+      "Хью Лори"
+    ],
+    "D. H. Lawrence": [
+      "D. H. Lawrence",
+      "David Herbert Lawrence",
+      "Дэвид Герберт Лоуренс"
+    ],
+    "John Lucas": [
+      "John Lucas",
+      "Джон Лукас"
+    ],
+    "Mario Vargas Llosa": [
+      "Mario Vargas Llosa",
+      "Маріо Варгас Льйоса"
+    ],
+    "Camilla Läckberg": [
+      "Camilla Läckberg",
+      "Камилла Лэкберг"
+    ],
+    "Mercedes Lackey": [
+      "Mercedes Lackey",
+      "Мерседес Лэки"
+    ],
+    "R. A. Lafferty": [
+      "R. A. Lafferty",
+      "Р А Лэфферти"
+    ],
+    "Ken Liu": [
+      "Ken Liu",
+      "Кен Лю"
+    ],
+    "Harper Lee": [
+      "Harper Lee",
+      "Гарпер Лі"
+    ],
+    "H. G. Wells": [
+      "H. G. Wells",
+      "Herbert George Wells",
+      "Герберт Уэллс"
+    ],
+    "A. A. Milne": [
+      "A. A. Milne",
+      "Alan Alexander Milne",
+      "Алан Александр Милн"
+    ],
+    "Gustav Meyrink": [
+      "Gustav Meyrink",
+      "Ґустав Майрінк"
+    ],
+    "Cormac McCarthy": [
+      "Cormac McCarthy",
+      "Кормак МакКарті"
+    ],
+    "Patrick McGrath": [
+      "Patrick McGrath",
+      "Патрик Макграт"
+    ],
+    "Ewan McGregor": [
+      "Ewan McGregor",
+      "Юэн Макгрегор"
+    ],
+    "Ian McDonald": [
+      "Ian McDonald",
+      "Йен Макдональд"
+    ],
+    "Philip MacDonald": [
+      "Philip MacDonald",
+      "Филип Макдональд"
+    ],
+    "Niccolò Machiavelli": [
+      "Niccolò Machiavelli",
+      "Niccolo Machiavelli",
+      "Никколо Макиавелли"
+    ],
+    "Colleen McCullough": [
+      "Colleen McCullough",
+      "Колин Маккалоу"
+    ],
+    "Anne McCaffrey": [
+      "Anne McCaffrey",
+      "Энн Маккефри"
+    ],
+    "Eric McCormack": [
+      "Eric McCormack",
+      "Эрик Маккормак"
+    ],
+    "Dean McLaughlin": [
+      "Dean McLaughlin",
+      "Дин Маклафлин"
+    ],
+    "David McNeil": [
+      "David McNeil",
+      "Дэвид Макнил"
+    ],
+    "Legs McNeil": [
+      "Legs McNeil",
+      "Легс Макнил"
+    ],
+    "Mathias Malzieu": [
+      "Mathias Malzieu",
+      "Матиас Мальзьё"
+    ],
+    "André Malraux": [
+      "André Malraux",
+      "Andre Malraux",
+      "Андре Мальро"
+    ],
+    "Henning Mankell": [
+      "Henning Mankell",
+      "Геннінг Манкелль"
+    ],
+    "Hilary Mantel": [
+      "Hilary Mantel",
+      "Хилари Мантел"
+    ],
+    "Javier Marías": [
+      "Javier Marías",
+      "Havier Marias",
+      "Хавьер Мариас"
+    ],
+    "Isaac Marion": [
+      "Isaac Marion",
+      "Айзек Марион"
+    ],
+    "Juan Marsé": [
+      "Juan Marsé",
+      "Хуан Марсе"
+    ],
+    "Yann Martel": [
+      "Yann Martel",
+      "Янн Мартел"
+    ],
+    "Tomás Eloy Martínez": [
+      "Tomás Eloy Martínez",
+      "Tomas Eloy Martinez",
+      "Томас Элой Мартинес"
+    ],
+    "Richard Marcinko": [
+      "Richard Marcinko",
+      "Річард Марцінко"
+    ],
+    "Cyril Massarotto": [
+      "Cyril Massarotto",
+      "Сирил Массаротто"
+    ],
+    "Ángeles Mastretta": [
+      "Ángeles Mastretta",
+      "Angeles Mastretta",
+      "Анхелес Мастретта"
+    ],
+    "Richard Matheson": [
+      "Richard Matheson",
+      "Ричард Матесон",
+      "Річард Метісон"
+    ],
+    "Franco Matteucci": [
+      "Franco Matteucci",
+      "Франко Маттеуччи"
+    ],
+    "Ana María Matute": [
+      "Ana María Matute",
+      "Ana Maria Matute",
+      "Ана Мария Матуте"
+    ],
+    "Stephenie Meyer": [
+      "Stephenie Meyer",
+      "Стефені Маєр"
+    ],
+    "Peter Mayle": [
+      "Peter Mayle",
+      "Питер Мейл"
+    ],
+    "Eduardo Mendoza": [
+      "Eduardo Mendoza",
+      "Эдуардо Мендоса"
+    ],
+    "Gérald Messadié": [
+      "Gérald Messadié",
+      "Gerald Messadie",
+      "Жеральд Мессадье"
+    ],
+    "Lajos Mesterházi": [
+      "Lajos Mesterházi",
+      "Лайош Мештерхази"
+    ],
+    "Andrew Miller": [
+      "Andrew Miller",
+      "Эндрю Миллер"
+    ],
+    "David Mitchell": [
+      "David Mitchell",
+      "Дэвид Митчелл"
+    ],
+    "Margaret Mitchell": [
+      "Margaret Mitchell",
+      "Маргарет Митчелл"
+    ],
+    "Somerset Maugham": [
+      "Somerset Maugham",
+      "Сомерсет Моем"
+    ],
+    "Martin Mosebach": [
+      "Martin Mosebach",
+      "Мартин Мозебах"
+    ],
+    "Jojo Moyes": [
+      "Jojo Moyes",
+      "Джоджо Мойєс"
+    ],
+    "Simon Monk": [
+      "Simon Monk",
+      "Саймон Монк"
+    ],
+    "Rosa Montero": [
+      "Rosa Montero",
+      "Роса Монтеро"
+    ],
+    "Toni Morrison": [
+      "Toni Morrison",
+      "Тони Мориссон",
+      "Тони Моррисон"
+    ],
+    "Robert Merle": [
+      "Robert Merle",
+      "Мерль Робер"
+    ],
+    "Michael Moorcock": [
+      "Michael Moorcock",
+      "Майкл Муркок"
+    ],
+    "Michael Swanwick": [
+      "Michael Swanwick",
+      "Майкл Суэнвик",
+      "Майлк Суэнвик"
+    ],
+    "Czesław Miłosz": [
+      "Czesław Miłosz",
+      "Чеслав Мілош"
+    ],
+    "Karin Slaughter": [
+      "Karin Slaughter",
+      "Карін Слотер"
+    ],
+    "Zadie Smith": [
+      "Zadie Smith",
+      "Зеді Сміт"
+    ],
+    "Rex Stout": [
+      "Rex Stout",
+      "Рекс Стаут"
+    ],
+    "Bruce Sterling": [
+      "Bruce Sterling",
+      "Брюс Стерлинг"
+    ],
+    "Neal Stephenson": [
+      "Neal Stephenson",
+      "Нил Стивенсон"
+    ],
+    "Bram Stoker": [
+      "Bram Stoker",
+      "Брэм Стокер"
+    ],
+    "Mary Stewart": [
+      "Mary Stewart",
+      "Мэри Стюарт"
+    ],
+    "Kōji Suzuki": [
+      "Kōji Suzuki",
+      "Koji Suzuki",
+      "Кодзи Судзуки"
+    ],
+    "Martin Suter": [
+      "Martin Suter",
+      "Мартин Сутер"
+    ],
+    "Michel Houellebecq": [
+      "Michel Houellebecq",
+      "Мишель Уэльбек"
+    ],
+    "John Wyndham": [
+      "John Wyndham",
+      "Джон Уиндем"
+    ],
+    "Don Winslow": [
+      "Don Winslow",
+      "Дон Уинслоу"
+    ],
+    "Tim Winton": [
+      "Tim Winton",
+      "Тим Уинтон"
+    ],
+    "Alice Sebold": [
+      "Alice Sebold",
+      "Элис Сиболд"
+    ],
+    "Erich Segal": [
+      "Erich Segal",
+      "Eric Segal",
+      "Эрик Сигал"
+    ],
+    "Wes McKinney": [
+      "Wes McKinney",
+      "Маккинни У"
+    ],
+    "Oscar Wilde": [
+      "Oscar Wilde",
+      "Оскар Уайльд"
+    ],
+    "Tony White": [
+      "Tony White",
+      "Тони Уайт"
+    ],
+    "John Williams": [
+      "John Williams",
+      "Джон Уильямс"
+    ],
+    "Robert Moore Williams": [
+      "Robert Moore Williams",
+      "Роберт Мур Уильямс"
+    ],
+    "Raymond Williams": [
+      "Raymond Williams",
+      "Рэймонд Уильямс"
+    ],
+    "Walter Winward": [
+      "Walter Winward",
+      "Уолтер Уинвард"
+    ],
+    "Ben H. Winters": [
+      "Ben H. Winters",
+      "Бен Х. Уинтерс"
+    ],
+    "Phil Whitaker": [
+      "Phil Whitaker",
+      "Фил Уитейкер"
+    ],
+    "Paul Witcover": [
+      "Paul Witcover",
+      "Пол Уиткавер"
+    ],
+    "Martin Waddell": [
+      "Martin Waddell",
+      "Мартин Уоддел"
+    ],
+    "Irving Wallace": [
+      "Irving Wallace",
+      "Ирвин Уоллес",
+      "Ирвинг Уоллес"
+    ],
+    "Harry Walton": [
+      "Harry Walton",
+      "Гарри Уолтон"
+    ],
+    "Michael Walsh": [
+      "Michael Walsh",
+      "Майкл Уолш"
+    ],
+    "Sarah Waters": [
+      "Sarah Waters",
+      "Сара Уотерс"
+    ],
+    "Ian Watson": [
+      "Ian Watson",
+      "Иэн Уотсон"
+    ],
+    "Robert Uhlig": [
+      "Robert Uhlig",
+      "Роберт Ухлиг"
+    ],
+    "Ron Webb": [
+      "Ron Webb",
+      "Рон Уэбб"
+    ],
+    "Russell Wakefield": [
+      "Russell Wakefield",
+      "Рассел Уэйкфилд"
+    ],
+    "Lisa Welsh": [
+      "Lisa Welsh",
+      "Лиза Уэлш"
+    ],
+    "Richard West": [
+      "Richard West",
+      "Ричард Уэст"
+    ],
+    "Walt Whitman": [
+      "Walt Whitman",
+      "Уолт Уїтмєн"
+    ],
+    "Richard Flanagan": [
+      "Richard Flanagan",
+      "РИЧАРД ФЛАНАГАН"
+    ],
+    "Joanna Fabicka": [
+      "Joanna Fabicka",
+      "Йоанна Фабіцька"
+    ],
+    "Monika Fagerholm": [
+      "Monika Fagerholm",
+      "Моника Фагерхольм"
+    ],
+    "Giorgio Faletti": [
+      "Giorgio Faletti",
+      "Джорджо Фалетти"
+    ],
+    "Kristina Falkenland": [
+      "Kristina Falkenland",
+      "Кристіна Фалькенланд"
+    ],
+    "Mick Farren": [
+      "Mick Farren",
+      "Мик Фаррен"
+    ],
+    "Anatole France": [
+      "Anatole France",
+      "Анатоль Франс"
+    ],
+    "James Hynes": [
+      "James Hynes",
+      "Джеймс Хайнс"
+    ],
+    "Patricia Highsmith": [
+      "Patricia Highsmith",
+      "Патриция Хайсмит"
+    ],
+    "Evan Hunter": [
+      "Evan Hunter",
+      "Ивэн Хантер"
+    ],
+    "Raymond Harvey": [
+      "Raymond Harvey",
+      "Рэймонд Харвей"
+    ],
+    "Corson Hirschfeld": [
+      "Corson Hirschfeld",
+      "Корсон Хиршфельд"
+    ],
+    "Charles Holdefer": [
+      "Charles Holdefer",
+      "Чарльз Холдефер"
+    ],
+    "José Martí": [
+      "José Martí",
+      "Jose Marti",
+      "Марті Хосе"
+    ],
+    "Shinichi Hoshi": [
+      "Shinichi Hoshi",
+      "Синити Хоси"
+    ],
+    "Stuart Home": [
+      "Stuart Home",
+      "Стюарт Хоум"
+    ],
+    "Lee Hoffman": [
+      "Lee Hoffman",
+      "Ли Хофман"
+    ],
+    "Edward Hoch": [
+      "Edward Hoch",
+      "Эдвард Хоч"
+    ],
+    "Saddam Hussein": [
+      "Saddam Hussein",
+      "Саддам Хусейн"
+    ],
+    "Siri Hustvedt": [
+      "Siri Hustvedt",
+      "Сири Хустведт"
+    ],
+    "Hubert Selby Jr.": [
+      "Hubert Selby Jr.",
+      "Селби Хьюберт-мл."
+    ],
+    "James Havoc": [
+      "James Havoc",
+      "Джеймс Хэвок"
+    ],
+    "James Tiptree Jr.": [
+      "James Tiptree Jr.",
+      "Джеймс Типтри-младший"
+    ],
+    "Olga Tokarczuk": [
+      "Olga Tokarczuk",
+      "Ольга Токарчук"
+    ],
+    "Jozef Toman": [
+      "Jozef Toman",
+      "Йозеф Томан"
+    ],
+    "Jeffrey Thomas": [
+      "Jeffrey Thomas",
+      "Джеффри Томас"
+    ],
+    "Hugh Thomas": [
+      "Hugh Thomas",
+      "Хью Томас"
+    ],
+    "Sean Thomas": [
+      "Sean Thomas",
+      "Шон Томас"
+    ],
+    "Paul A. Toth": [
+      "Paul A. Toth",
+      "Пол А. Тот"
+    ],
+    "William Trevor": [
+      "William Trevor",
+      "Уильям Тревор"
+    ],
+    "Rose Tremain": [
+      "Rose Tremain",
+      "Роуз Тремейн"
+    ],
+    "Frédérick Tristan": [
+      "Frédérick Tristan",
+      "Frederic Tristan",
+      "Фредерик Тристан"
+    ],
+    "Jonathan Tropper": [
+      "Jonathan Tropper",
+      "Джонатан Троппер"
+    ],
+    "Michel Tournier": [
+      "Michel Tournier",
+      "Мишель Турнье"
+    ],
+    "Pablo Tusset": [
+      "Pablo Tusset",
+      "Пабло Туссет"
+    ],
+    "Sam Taylor": [
+      "Sam Taylor",
+      "Сэм Тэйлор"
+    ],
+    "Thomas Thiemeyer": [
+      "Thomas Thiemeyer",
+      "Томас Тімайєр"
+    ],
+    "Ulas Samchuk": [
+      "Ulas Samchuk",
+      "Самчук У."
+    ],
+    "William Charlie": [
+      "William Charlie",
+      "Уильям Чарли"
+    ],
+    "J. Terney": [
+      "J. Terney",
+      "Джон Терни"
+    ],
+    "Carol Thurston": [
+      "Carol Thurston",
+      "Кэрол Терстон"
+    ],
+    "Odd Sullumsmuen": [
+      "Odd Sullumsmuen",
+      "Одд Сулумсмуен"
+    ],
+    "Adam Synovec": [
+      "Adam Synovec",
+      "Адам Сыновец"
+    ],
+    "Sergey Sukhinov": [
+      "Sergey Sukhinov",
+      "Сергей Сухинов"
+    ],
+    "Kris Seknussem": [
+      "Kris Seknussem",
+      "Крис Сэкнуссемм"
+    ],
+    "Claude Simon": [
+      "Claude Simon",
+      "Клод Сімон"
+    ],
+    "Tadeusz Dołęga-Mostowicz": [
+      "Tadeusz Dołęga-Mostowicz",
+      "Тадеуш Долєнга-Мостович",
+      "Tadeusz Dolega-Mostowicz",
+      "Долєнга-Мостович Т."
+    ],
+    "Tarek Ziade": [
+      "Tarek Ziade",
+      "Tarek Ziadé",
+      "Зиаде Т."
+    ],
+    "Timur Litovchenko": [
+      "Timur Litovchenko",
+      "Тимур Литовченко",
+      "Литовчєнко Т."
+    ],
+    "Edwin Charles Tubb": [
+      "Edwin Charles Tubb",
+      "E. C. Tubb",
+      "Эдвин Чарльз Табб"
+    ],
+    "Colin Thubron": [
+      "Colin Thubron",
+      "Колин Таброн"
+    ],
+    "Antonio Tabucchi": [
+      "Antonio Tabucchi",
+      "Антонио Табукки"
+    ],
+    "Elliot Tiber": [
+      "Elliot Tiber",
+      "Эллиот Тайбер"
+    ],
+    "Bob Tucker": [
+      "Bob Tucker",
+      "Боб Такер"
+    ],
+    "Amy Tan": [
+      "Amy Tan",
+      "Эми Тан"
+    ],
+    "Jun'ichiro Tanizaki": [
+      "Jun'ichiro Tanizaki",
+      "Jun'ichirō Tanizaki",
+      "Дзюнъитиро Танидзаки"
+    ],
+    "Mark Twain": [
+      "Mark Twain",
+      "Марк Твен"
+    ],
+    "Paul Theroux": [
+      "Paul Theroux",
+      "Пол Теру"
+    ],
+    "Gene Wolfe": [
+      "Gene Wolfe",
+      "Джин Ульф"
+    ],
+    "Книжковий Пірат": [
+      "Книжковий Пірат",
+      "Белькампо",
+      "Збірник"
+    ],
+    "Pär Lagerkvist": [
+      "Pär Lagerkvist",
+      "Laghierkvist P."
+    ],
+    "Péter Esterházy": [
+      "Péter Esterházy",
+      "Iestierkhazi P."
+    ],
+    "Paul Gries | Jennifer Campbell | Jason Montojo": [
+      "Paul Gries | Jennifer Campbell | Jason Montojo",
+      "Paul Gries| Jennifer Campbell| Jason Montojo"
+    ],
+    "Peter Hilton | Erik Bakker | Francisco Canedo": [
+      "Peter Hilton | Erik Bakker | Francisco Canedo",
+      "Peter Hilton| Erik Bakker| Francisco Canedo",
+      "Peter Hilton| Eril Bakker| Francisco Canedo"
+    ],
+    "I. H. Witten | Eibe Frank": [
+      "I. H. Witten | Eibe Frank",
+      "Witten| I. H.; Frank| Eibe."
+    ],
+    "Bharath Ramsundar | Peter Eastman | Patrick Walters | Vijay Pande": [
+      "Bharath Ramsundar | Peter Eastman | Patrick Walters | Vijay Pande",
+      "Bharath Ramsundar;Peter Eastman;Patrick Walters;Vijay Pande;"
+    ],
+    "Roberto Cipolla | Sebastiano Battiato | Giovanni Maria Farinella": [
+      "Roberto Cipolla | Sebastiano Battiato | Giovanni Maria Farinella",
+      "Roberto Cipolla| Sebastiano Battiato| Giovanni Maria Farinella"
+    ],
+    "Tom Mochal | Jeff Mochal": [
+      "Tom Mochal | Jeff Mochal",
+      "Tom Mochal| Jeff Mochal"
+    ],
+    "Tomas Petricek | Jon Skeet": [
+      "Tomas Petricek | Jon Skeet",
+      "Tomas Petricek| Jon Skeet"
+    ],
+    "Yaron Minsky | Anil Madhavapeddy | Jason Hickey": [
+      "Yaron Minsky | Anil Madhavapeddy | Jason Hickey",
+      "Yaron Minsky| Anil Madhavapeddy"
+    ],
+    "Ryunosuke Akutagawa": [
+      "Ryunosuke Akutagawa",
+      "Akutag'ava R."
+    ],
+    "Yasunari Kawabata": [
+      "Yasunari Kawabata",
+      "Кавабата Я."
+    ],
+    "Андрій Кокотюха": [
+      "Андрій Кокотюха",
+      "Андрей Анатольевич Кокотюха",
+      "Андрій Анатолійович Кокотюха"
+    ],
+    "Vladimir Colin": [
+      "Vladimir Colin",
+      "Владимир Колин"
+    ],
+    "Suzanne Collins": [
+      "Suzanne Collins",
+      "Сюзанна Коллінз"
+    ],
+    "Wilkie Collins": [
+      "Wilkie Collins",
+      "Уїлкі Коллінз"
+    ],
+    "Eoin Colfer": [
+      "Eoin Colfer",
+      "Йоун Колфер"
+    ],
+    "Christian Combaz": [
+      "Christian Combaz",
+      "Кристиан Комбаз"
+    ],
+    "Alfredo Conde": [
+      "Alfredo Conde",
+      "Альфредо Конде"
+    ],
+    "Joseph Connolly": [
+      "Joseph Connolly",
+      "Джозеф Коннолли"
+    ],
+    "Julio Cortázar": [
+      "Julio Cortázar",
+      "Хулио Кортасар"
+    ],
+    "Elizabeth Kostova": [
+      "Elizabeth Kostova",
+      "Елізабет Костова"
+    ],
+    "Jonathan Coe": [
+      "Jonathan Coe",
+      "Джонатан Коу"
+    ],
+    "Michael Crichton": [
+      "Michael Crichton",
+      "Майкл Крайтон"
+    ],
+    "Nicole Krauss": [
+      "Nicole Krauss",
+      "Николь Краусс"
+    ],
+    "Agota Kristof": [
+      "Agota Kristof",
+      "Агота Кристоф"
+    ],
+    "A. J. Cronin": [
+      "A. J. Cronin",
+      "А. Дж. Кронин"
+    ],
+    "Archibald Joseph Cronin": [
+      "Archibald Joseph Cronin",
+      "Арчибальд Джозеф Кронин"
+    ],
+    "Andrew Crumey": [
+      "Andrew Crumey",
+      "Эндрю Круми"
+    ],
+    "J. M. Coetzee": [
+      "J. M. Coetzee",
+      "Дж. М. Кутзее"
+    ],
+    "David Kushner": [
+      "David Kushner",
+      "Девід Кушнер"
+    ],
+    "John W. Campbell": [
+      "John W. Campbell",
+      "Джон Кэмпбелл"
+    ],
+    "Joseph Kanon": [
+      "Joseph Kanon",
+      "Джозеф Кэнон"
+    ],
+    "Joyce Cary": [
+      "Joyce Cary",
+      "Джойс Кэри"
+    ],
+    "Peter Carey": [
+      "Peter Carey",
+      "Питер Кэри"
+    ],
+    "Jim Carroll": [
+      "Jim Carroll",
+      "Джим Кэррол"
+    ],
+    "Jonathan Carroll": [
+      "Jonathan Carroll",
+      "Джонатан Кэрролл"
+    ],
+    "Max Kidruk": [
+      "Max Kidruk",
+      "Макс Кідрук",
+      "Максим Кідрук"
+    ],
+    "Daniel Keyes": [
+      "Daniel Keyes",
+      "Деніел Кіз"
+    ],
+    "Apostolos Doxiadis": [
+      "Apostolos Doxiadis",
+      "Апостолос Доксиадис"
+    ],
+    "Edgar Lawrence Doctorow": [
+      "Edgar Lawrence Doctorow",
+      "Эдгар Лоуренс Доктороу"
+    ],
+    "Joanne Harris": [
+      "Joanne Harris",
+      "Джоан Харрис",
+      "Харрис Джоан"
+    ],
+    "Diana Wynne Jones": [
+      "Diana Wynne Jones",
+      "Діана Вінн Джонс"
+    ],
+    "Graham Joyce": [
+      "Graham Joyce",
+      "Грэм Джойс"
+    ],
+    "Shirley Jackson": [
+      "Shirley Jackson",
+      "Ширли Джексон"
+    ],
+    "Michael Dibdin": [
+      "Michael Dibdin",
+      "Майкл Дибдин"
+    ],
+    "Gordon Dickson": [
+      "Gordon Dickson",
+      "Гордон Диксон"
+    ],
+    "Seamus Deane": [
+      "Seamus Deane",
+      "Шеймас Дин"
+    ],
+    "Michael Dobbs": [
+      "Michael Dobbs",
+      "Майкл Доббс"
+    ],
+    "Fabian Dobles": [
+      "Fabian Dobles",
+      "Фабиан Доблес"
+    ],
+    "Tadeusz Konwicki": [
+      "Tadeusz Konwicki",
+      "ТАДЕУШ КОНВИЦКИЙ"
+    ],
+    "Patrick Modiano": [
+      "Patrick Modiano",
+      "Патрик Модиано"
+    ],
+    "José Saramago": [
+      "José Saramago",
+      "Жозе Сарамаго",
+      "Сарамаго Жозе"
+    ],
+    "Jean-Marie Gustave Le Clézio": [
+      "Jean-Marie Gustave Le Clézio",
+      "Ле Клезіo",
+      "Жан Марі Ґюстав"
+    ],
+    "Володимир Рутківський": [
+      "Володимир Рутківський",
+      "Руткiвський Володимир"
+    ],
+    "Илья Стогов": [
+      "Илья Стогов",
+      "Илья Стогоff"
+    ],
+    "Frank Roberts": [
+      "Frank Roberts",
+      "Фрэнк Робертc"
+    ],
+    "Tom Stoppard": [
+      "Tom Stoppard",
+      "Том Стоппард"
+    ],
+    "Chris Riddell": [
+      "Chris Riddell",
+      "Кріс Рідел"
+    ],
+    "Kazuo Ishiguro": [
+      "Kazuo Ishiguro",
+      "Кадзуо Исигуро"
+    ],
+    "Paul Stewart": [
+      "Paul Stewart",
+      "Пол Стюарт"
+    ],
+    "Jarosław Iwaszkiewicz": [
+      "Jarosław Iwaszkiewicz",
+      "Jaroslaw Iwaszkiewicz",
+      "Івашкевич Ярослав",
+      "Івашкєвич Ярослав"
+    ],
+    "Виктор Пелевин": [
+      "Виктор Пелевин",
+      "Ротшильд Д",
+      "Ротшильд Д."
+    ],
+    "Philip K. Dick": [
+      "Philip K. Dick",
+      "Філіп К. Дік"
+    ],
+    "Roger Zelazny": [
+      "Roger Zelazny",
+      "Roger Joseph Zelazny"
+    ],
+    "Simon Sebag Montefiore": [
+      "Simon Sebag Montefiore",
+      "Simon Sebag"
+    ],
+    "Pia Juul": [
+      "Pia Juul",
+      "Пиа Юль"
+    ],
+    "Anna Müller-Tannewitz": [
+      "Anna Müller-Tannewitz",
+      "Анна Юрген"
+    ],
+    "Robert F. Young": [
+      "Robert F. Young",
+      "Роберт Янг"
+    ],
+    "Rosario Ferré": [
+      "Rosario Ferré",
+      "Росарио Ферре"
+    ],
+    "Marcelo Figueras": [
+      "Marcelo Figueras",
+      "Марсело Фигерас"
+    ],
+    "Amanda Filipacchi": [
+      "Amanda Filipacchi",
+      "Аманда Филипаччи"
+    ],
+    "Cornel Filipowicz": [
+      "Cornel Filipowicz",
+      "Корнель Филипович"
+    ],
+    "Paul Di Filippo": [
+      "Paul Di Filippo",
+      "Пол Ди Филиппо"
+    ],
+    "Arthur Phillips": [
+      "Arthur Phillips",
+      "Артур Филлипс"
+    ],
+    "Peter Phillips": [
+      "Peter Phillips",
+      "Питер Филлипс"
+    ],
+    "Timothy Findley": [
+      "Timothy Findley",
+      "Тимоти Финдли"
+    ],
+    "Victoria Finlay": [
+      "Victoria Finlay",
+      "Виктория Финли"
+    ],
+    "Jack Finney": [
+      "Jack Finney",
+      "Джек Финней"
+    ],
+    "Janet Fitch": [
+      "Janet Fitch",
+      "Джанет Фитч"
+    ],
+    "F. Scott Fitzgerald": [
+      "F. Scott Fitzgerald",
+      "Francis Scott Fitzgerald",
+      "Фрэнсис Скотт Фицджеральд",
+      "Фицджеральд, Фрэнсис Скотт",
+      "Фіцджеральд, Френсіс Скотт"
+    ],
+    "Bob Fisher": [
+      "Bob Fisher",
+      "Боб Фишер"
+    ],
+    "Mark Fisher": [
+      "Mark Fisher",
+      "Марк Фишер"
+    ],
+    "Tibor Fischer": [
+      "Tibor Fischer",
+      "Тибор Фишер"
+    ],
+    "Gustave Flaubert": [
+      "Gustave Flaubert",
+      "Гюстав Флобер"
+    ],
+    "Cătălin Dorian Florescu": [
+      "Cătălin Dorian Florescu",
+      "Catalin Dorian Florescu",
+      "Каталін Доріан Флореску"
+    ],
+    "Fannie Flagg": [
+      "Fannie Flagg",
+      "Фэнни Флэгг"
+    ],
+    "Thomas Vogel": [
+      "Thomas Vogel",
+      "Томас Фогель"
+    ],
+    "Jonathan Safran Foer": [
+      "Jonathan Safran Foer",
+      "Джонатан Сафран Фоер",
+      "Джонатан Сафран Фоєр"
+    ],
+    "William Faulkner": [
+      "William Faulkner",
+      "Вільям Фолкнер"
+    ],
+    "Henry Ford": [
+      "Henry Ford",
+      "Генрі Форд"
+    ],
+    "Jeffrey Ford": [
+      "Jeffrey Ford",
+      "Джеффри Форд"
+    ],
+    "Alan Dean Foster": [
+      "Alan Dean Foster",
+      "Алан Дин Фостер"
+    ],
+    "Stephen Fry": [
+      "Stephen Fry",
+      "Стивен Фрай"
+    ],
+    "Michael Frayn": [
+      "Michael Frayn",
+      "Майкл Фрейн"
+    ],
+    "J. Bruce Friedman": [
+      "J. Bruce Friedman",
+      "Джей Брюс Фридман"
+    ],
+    "Nikolaj Frobenius": [
+      "Nikolaj Frobenius",
+      "Nikolay Frobenius",
+      "Николай Фробениус"
+    ],
+    "Dick Francis": [
+      "Dick Francis",
+      "Дик Фрэнсис"
+    ],
+    "Asuka Fujimori": [
+      "Asuka Fujimori",
+      "Асука Фудзимори"
+    ],
+    "Arkady Fiedler": [
+      "Arkady Fiedler",
+      "Аркадій Фідлер",
+      "Фидлер, Аркадий"
+    ],
+    "Philip E. High": [
+      "Philip E. High",
+      "Philip High",
+      "Филип Хай"
+    ],
+    "Sam Hayes": [
+      "Sam Hayes",
+      "Сэм Хайес"
+    ],
+    "Robert Harris": [
+      "Robert Harris",
+      "Роберт Харрис"
+    ],
+    "Colin Harrison": [
+      "Colin Harrison",
+      "Колин Харрисон"
+    ],
+    "Stefan Chwin": [
+      "Stefan Chwin",
+      "Стефан Хвин"
+    ],
+    "Matt Haig": [
+      "Matt Haig",
+      "Мэтт Хейг"
+    ],
+    "Thor Heyerdahl": [
+      "Thor Heyerdahl",
+      "Тур Хейєрдал"
+    ],
+    "Gerben Hellinga": [
+      "Gerben Hellinga",
+      "Гербен Хелинга",
+      "Гербен Хелинга-мл"
+    ],
+    "Richard Hell": [
+      "Richard Hell",
+      "Ричард Хелл"
+    ],
+    "Joseph Heller": [
+      "Joseph Heller",
+      "Джозеф Хеллер"
+    ],
+    "Mark Helprin": [
+      "Mark Helprin",
+      "Марк Хелприн"
+    ],
+    "Hallgrímur Helgason": [
+      "Hallgrímur Helgason",
+      "Халльгрим Хельгасон"
+    ],
+    "Aleksandar Hemon": [
+      "Aleksandar Hemon",
+      "Александар Хемон"
+    ],
+    "Gyula Hernádi": [
+      "Gyula Hernádi",
+      "Дьюла Хернади"
+    ],
+    "Glen Hirshberg": [
+      "Glen Hirshberg",
+      "Глен Хиршберг"
+    ],
+    "Marek Hłasko": [
+      "Marek Hłasko",
+      "Марек Хласко"
+    ],
+    "William Hope Hodgson": [
+      "William Hope Hodgson",
+      "Вильям Хоуп Ходжсон"
+    ],
+    "Lucy Hawking": [
+      "Lucy Hawking",
+      "Люси Хокинг"
+    ],
+    "Jack C. Haldeman": [
+      "Jack C. Haldeman",
+      "Джек Холдеман"
+    ],
+    "Joe Haldeman": [
+      "Joe Haldeman",
+      "Джо Холдеман"
+    ],
+    "Khaled Hosseini": [
+      "Khaled Hosseini",
+      "Халед Хоссейни"
+    ],
+    "Richard Hughes": [
+      "Richard Hughes",
+      "Ричард Хьюз"
+    ],
+    "Ludwig Hevesi": [
+      "Ludwig Hevesi",
+      "Людвиг Хэвеси"
+    ],
+    "Sid Chaplin": [
+      "Sid Chaplin",
+      "Сід Чаплін"
+    ],
+    "C. J. Cherryh": [
+      "C. J. Cherryh",
+      "Carolyn Janice Cherry",
+      "Кэролайн Джайнис Черри"
+    ],
+    "Tom Sharpe": [
+      "Tom Sharpe",
+      "Том Шарп"
+    ],
+    "Tahir Shah": [
+      "Tahir Shah",
+      "Тахир Шах"
+    ],
+    "Tracy Chevalier": [
+      "Tracy Chevalier",
+      "Трейси Шевалье"
+    ],
+    "Taras Shevchenko": [
+      "Taras Shevchenko",
+      "Т. Г. Шевченко"
+    ],
+    "Валерій Шевчук": [
+      "Валерій Шевчук",
+      "Valeriy Shevchuk",
+      "Валерій Олександрович Шевчук"
+    ],
+    "Mary Shelley": [
+      "Mary Shelley",
+      "Мэри Шелли"
+    ],
+    "Darren Shan": [
+      "Darren Shan",
+      "Даррен Шен"
+    ],
+    "Виктор Шендерович": [
+      "Виктор Шендерович",
+      "Viktor Shenderovich",
+      "Виктор Анатольевич Шендерович"
+    ],
+    "Ruta Sepetys": [
+      "Ruta Sepetys",
+      "Рута Шепетіс"
+    ],
+    "Thomas Sherred": [
+      "Thomas Sherred",
+      "Томас Шерред"
+    ],
+    "Harold Schechter": [
+      "Harold Schechter",
+      "Гарольд Шехтер"
+    ],
+    "John Shirley": [
+      "John Shirley",
+      "Джон Ширли"
+    ],
+    "Bernhard Schlink": [
+      "Bernhard Schlink",
+      "Бернхард Шлинк"
+    ],
+    "Éric-Emmanuel Schmitt": [
+      "Éric-Emmanuel Schmitt",
+      "Eric-Emmanuel Schmitt",
+      "Эрик-Эмманюэль Шмитт"
+    ],
+    "Silke Scheuermann": [
+      "Silke Scheuermann",
+      "Зильке Шойерман"
+    ],
+    "Irwin Shaw": [
+      "Irwin Shaw",
+      "Ірвін. Шоу"
+    ],
+    "Bob Shaw": [
+      "Bob Shaw",
+      "Боб Шоу"
+    ],
+    "Василь Шкляр": [
+      "Василь Шкляр",
+      "Vasyl Shkliar",
+      "Vasyl Shklyar"
+    ],
+    "Stefan Zweig": [
+      "Stefan Zweig",
+      "Стефан Цвайг"
+    ],
+    "Michael Chabon": [
+      "Michael Chabon",
+      "Майкл Чабон"
+    ],
+    "Андрэй Хадановіч": [
+      "Андрэй Хадановіч",
+      "Андрей Хаданович",
+      "Хаданович"
+    ],
+    "Виктор Суворов": [
+      "Виктор Суворов",
+      "Віктор Суворов",
+      "Viktor Suvorov"
+    ],
+    "Jacqueline Susann": [
+      "Jacqueline Susann",
+      "Жаклин Сьюзан",
+      "Жаклин Сьюзанн"
+    ],
+    "Kris Seknussemm": [
+      "Kris Seknussemm",
+      "Крис Сэкнуссемм"
+    ],
+    "John Tierney": [
+      "John Tierney",
+      "Джон Терни"
+    ],
+    "Josef Toman": [
+      "Josef Toman",
+      "Йозеф Томан"
+    ],
+    "Henri Troyat": [
+      "Henri Troyat",
+      "Генрі Труят"
+    ],
+    "Улас Самчук": [
+      "Улас Самчук",
+      "Самчук У."
+    ],
+    "William Tenn": [
+      "William Tenn",
+      "Тенн Уильям"
+    ],
+    "Олександр Ушкалов": [
+      "Олександр Ушкалов",
+      "Олександр Леонідович Ушкалов",
+      "Сашко Ушкалов"
+    ],
+    "G. Fife": [
+      "G. Fife",
+      "Г. Файф"
+    ],
+    "Klymentiy Fedevych": [
+      "Klymentiy Fedevych",
+      "Климентій Федевич",
+      "Федевич К. К."
+    ],
+    "Peter K. Hougen": [
+      "Peter K. Hougen",
+      "Питер К. Хоуген"
+    ],
+    "Kristy L. Truax-Nichols": [
+      "Kristy L. Truax-Nichols",
+      "Кристи Л. Труакс-Ничолс"
+    ],
+    "Frank Hutter": [
+      "Frank Hutter",
+      "Хуттер Ф."
+    ],
+    "Lars Kotthoff": [
+      "Lars Kotthoff",
+      "Коттхофф Л."
+    ],
+    "Joaquin Vanschoren": [
+      "Joaquin Vanschoren",
+      "Ваншорен Х."
+    ],
+    "Paul Stewart | Chris Riddell": [
+      "Paul Stewart | Chris Riddell",
+      "Стюарт Пол, Рідел Кріс"
+    ],
+    "James Hemesath": [
+      "James Hemesath",
+      "Джеймс Хэмисат"
+    ],
+    "John Christopher Williams": [
+      "John Christopher Williams",
+      "Джон Кристофер Уильям"
+    ],
+    "Josh Fischer": [
+      "Josh Fischer",
+      "Фишер Д."
+    ],
+    "Jeremy Paxman": [
+      "Jeremy Paxman",
+      "Джереми Диксон Паксман"
+    ],
+    "Joseph Rothschild": [
+      "Joseph Rothschild",
+      "Ротшильд Д."
+    ],
+    "Nancy Meriwether Wingfield": [
+      "Nancy Meriwether Wingfield",
+      "Уїнгфілд Н.",
+      "Уїнгфілд Н. М."
+    ],
+    "Neal Ford": [
+      "Neal Ford",
+      "Форд Н."
+    ],
+    "Ning Wang": [
+      "Ning Wang",
+      "Ван Нин"
+    ],
+    "Norbert Niemann": [
+      "Norbert Niemann",
+      "Норберт Ниман"
+    ],
+    "Susan Heyboer O'Keefe": [
+      "Susan Heyboer O'Keefe",
+      "Сьюзан Хейбур О'Киф"
+    ],
+    "Theodore Mathieson": [
+      "Theodore Mathieson",
+      "Теодор Мэтисон"
+    ],
+    "Björn Nyberg": [
+      "Björn Nyberg",
+      "Бьорн Ниберг"
+    ],
+    "Лев Толстой": [
+      "Лев Толстой",
+      "Leo Tolstoy"
+    ]
+  },
+  "junk_author_exact": [
+    "Crime Thrillers",
+    "Dark Thrillers",
+    "Horror Thrillers",
+    "Mammoth Book",
+    "Suspense Thrillers",
+    "The Uncollected Stories",
+    "Chapterhouse Dune",
+    "本活動用書由敦煌書局提供贊助"
+  ],
+  "valid_single_token_authors": [
+    "Толкін",
+    "О'Генрі",
+    "Poppet",
+    "Крез",
+    "Stendhal",
+    "Jebe"
+  ]
+}

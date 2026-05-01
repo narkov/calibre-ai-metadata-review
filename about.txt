@@ -1,0 +1,6 @@
+Calibre AI Metadata Review
+
+Review selected books in the Calibre GUI, normalize author metadata from a bundled registry, and optionally call OpenAI for ambiguous cases.
+
+This plugin is intended as a human-in-the-loop review tool: it shows proposed metadata changes before they are applied.
+
